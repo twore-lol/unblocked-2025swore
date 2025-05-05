@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/SchoolIzBoring/Unblocked-Websites/main/logo.png)
+![Logo](https://raw.githubusercontent.com/twore-lol/unblocked-2025swore/main/logo.png)
 
 
 # Unblocked Websites
@@ -9,12 +9,12 @@ Unblocked Websites is an Open Source tool Website for school that includes games
 
 
 ## Demo
-schoolizboring.github.io/Unblocked-Websites/
+
 
 
 ## Authors
 
-- [@SchoolIzBoring](https://github.com/SchoolIzBoring)
+- @swore  / qtsz
 
 
 ## License
